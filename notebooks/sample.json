@@ -1,0 +1,66 @@
+{
+    "type": "PRICE",
+    "time": "2022-09-13T10:00:47.226157326Z",
+    "bids": [
+        {
+            "price": "1.01648",
+            "liquidity": 1000000
+        },
+        {
+            "price": "1.01647",
+            "liquidity": 2000000
+        },
+        {
+            "price": "1.01646",
+            "liquidity": 2000000
+        },
+        {
+            "price": "1.01644",
+            "liquidity": 5000000
+        }
+    ],
+    "asks": [
+        {
+            "price": "1.01656",
+            "liquidity": 1000000
+        },
+        {
+            "price": "1.01658",
+            "liquidity": 2000000
+        },
+        {
+            "price": "1.01659",
+            "liquidity": 2000000
+        },
+        {
+            "price": "1.01660",
+            "liquidity": 5000000
+        }
+    ],
+    "closeoutBid": "1.01644",
+    "closeoutAsk": "1.01660",
+    "status": "tradeable",
+    "tradeable": true,
+    "instrument": "EUR_USD"
+},
+{
+    "type": "PRICE",
+    "time": "2022-09-13T10:00:44.870294603Z",
+    "bids": [
+        {
+            "price": "1726.830",
+            "liquidity": 2000
+        }
+    ],
+    "asks": [
+        {
+            "price": "1727.080",
+            "liquidity": 2000
+        }
+    ],
+    "closeoutBid": "1726.830",
+    "closeoutAsk": "1727.080",
+    "status": "tradeable",
+    "tradeable": true,
+    "instrument": "XAU_USD"
+}
